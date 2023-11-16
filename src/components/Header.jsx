@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header>
       <img src={logoImg} alt="Quiz logo" />
-      <h1>Quiz Application with React</h1>
+      <h1>Quiz Application</h1>
     </header>
   );
 }
